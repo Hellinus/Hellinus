@@ -1,4 +1,4 @@
-# Hello, I'm Hellinus.
+# 👋 Hello, I'm Hellinus.
 # 💫 About Me:
 - 🎮 Noob game designer
 - 🔭 Currently working on several small game projects
