@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Hellinus.
 # 💫 About Me:
-🎮 A Noob Game Designer<br>
+🎮 A Noob Game Designer
+
 🔭 Currently working on several small game projects
 🌱 Currently learning Level design & Unreal Engine & ...
 ⚡ Real name: Han Haotian (韩浩天)
