@@ -9,8 +9,8 @@
 
 # 📜 Repo Info:
 ## 📚 [Library](https://github.com/Hellinus/Library):
-Here is my backup library on game design, including study notes on game systems and levels, some project documents, and other thoughts on design.<br>
-这里是我关于游戏设计的备份库，包括游戏系统和关卡的学习笔记、一些项目文档，以及其他关于设计的思考。<br>
+Here is a backup library of my study notes, including game design reading notes, analysis, and other thoughts on design.<br>
+这里是我学习笔记的备份库，包括游戏设计的阅读笔记、分析，以及其他关于设计的思考。<br>
 
 ## 🎮 [Project-Bump](https://github.com/Hellinus/Project-Bump): 2D | Platform | Puzzle | Physics
 Play as a little girl, a sample in the laboratory, and use her expanded physical abilities to escape and destroy the dark genetic modification company.<br>
