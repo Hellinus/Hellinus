@@ -12,10 +12,6 @@
 Here is a backup library of my study notes, including game design reading notes, analysis, and other thoughts on design.<br>
 这里是我学习笔记的备份库，包括游戏设计的阅读笔记、分析，以及其他关于设计的思考。<br>
 
-## 🧭 [Portfolio](https://github.com/Hellinus/Portfolio):
-Game portfolio (will be replaced by website within a few months).<br>
-游戏作品集。<br>
-
 ## 🎮 [Project-Bump](https://github.com/Hellinus/Project-Bump): 2D | Platform | Puzzle | Physics
 Play as a little girl, a sample in the laboratory, and use her expanded physical abilities to escape and destroy the dark genetic modification company.<br>
 扮演实验室中的样本——小女孩，运用膨胀的物理能力，逃离并摧毁黑暗的基因改造公司。<br>
