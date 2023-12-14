@@ -12,7 +12,7 @@
 Here is a backup library of my study notes, including game design reading notes, analysis, and other thoughts on design.<br>
 这里是我学习笔记的备份库，包括游戏设计的阅读笔记、分析，以及其他关于设计的思考。<br>
 
-## 📚 [Portfolio](https://github.com/Hellinus/Portfolio):
+## 🧭 [Portfolio](https://github.com/Hellinus/Portfolio):
 Game portfolio (will be replaced by website within a few months).<br>
 游戏作品集。<br>
 
